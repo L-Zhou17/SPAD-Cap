@@ -9,5 +9,6 @@ A system for Leaf SPAD estimation and blade-level SPAD distribution visualizatio
 
 ## Usage
 * Connect a USB camera to RPI.
+* Download and copy the whole foler to your RPI.
 * Install the required packages.
 * Make configure that run Web_SPAD.py script automatically at system startup.
